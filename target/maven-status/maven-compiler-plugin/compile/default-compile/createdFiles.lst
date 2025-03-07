@@ -1,0 +1,9 @@
+controller\LoginServlet.class
+controller\ProductServlet.class
+dao\DAO.class
+model\Product.class
+model\Category.class
+controller\LogoutServlet.class
+dao\AccountDAO.class
+model\Account.class
+utils\DBContext.class
